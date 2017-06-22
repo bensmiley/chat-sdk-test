@@ -62,7 +62,7 @@ Pod::Spec.new do |s|
 
 	fi.source_files = ['ChatSDKFirebaseAdapter/Classes/**/*']
 
-    fi.dependency 'Firebase/Core'
+    #fi.dependency 'Firebase/Core'
 	fi.dependency 'Firebase/Database'
 	fi.dependency 'Firebase/Storage'
 	fi.dependency 'Firebase/Auth'
